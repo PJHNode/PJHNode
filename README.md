@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Main-Java-c9d1d9?style=flat-square&logo=openjdk&logoColor=000000&labelColor=000000" /></a>
-  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Sub-Python-c9d1d9?style=flat-square&logo=python&logoColor=000000&labelColor=000000" /></a>
-  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Status-Building_Things-c9d1d9?style=flat-square&logo=githubactions&logoColor=000000&labelColor=000000" /></a>
-  <a href="mailto:pjhg0605i@gmail.com"><img src="https://img.shields.io/badge/Mail-pjhg0605i-c9d1d9?style=flat-square&logo=gmail&logoColor=000000&labelColor=000000" /></a>
+  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Main-Java-c9d1d9?style=flat-square&logo=openjdk&logoColor=c9d1d9&labelColor=000000" /></a>
+  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Sub-Python-c9d1d9?style=flat-square&logo=python&logoColor=c9d1d9&labelColor=000000" /></a>
+  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Status-Building_Things-c9d1d9?style=flat-square&logo=githubactions&logoColor=c9d1d9&labelColor=000000" /></a>
+  <a href="mailto:pjhg0605i@gmail.com"><img src="https://img.shields.io/badge/Mail-pjhg0605i-c9d1d9?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=000000" /></a>
 </p>
 
 ---
@@ -40,7 +40,7 @@ currently_building: PJH Hub
 ### `> tech --stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&perline=5&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&perline=5&theme=dark" />
 </p>
 
 ---
