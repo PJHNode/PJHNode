@@ -38,6 +38,7 @@ currently_building: PJH Hub
 | **PJH-RPG** | 🗡️ RotMG-style real-time multiplayer top-down MMORPG (Phaser 3 + Socket.io) |
 | **PJH HQ** | 🖥️ All-in-one desktop hub — news, weather, notes, and more |
 | **PJH-OS** | 🐧 Custom Linux distro remade/remixed from Ubuntu |
+| **TerminalSimulator** | 🎮 Conway's Game of Life running in a terminal, pure Java |
 | *...more brewing* | ☕ Stay tuned |
 
 ---
