@@ -13,6 +13,14 @@
   <a href="https://pjhnode.github.io/PJH-hub/"><img src="https://img.shields.io/badge/PJH_Hub-Live_Site-00d9ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
 </p>
 
+```
++---------------------------------+
+| PJH.dev                         |
+| building tools nobody asked for |
+| Korea . est. 2026               |
++---------------------------------+
+```
+
 ---
 
 ### `> whoami`
