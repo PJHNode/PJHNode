@@ -54,15 +54,6 @@ currently_building: PJH Hub
 ### `> stats --github`
 
 <p align="center">
-  <a href="https://github.com/PJHNode">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PJHNode&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=50FA7B&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" />
-  </a>
-  <a href="https://github.com/PJHNode">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PJHNode&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true" height="165" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://ghstats.dev/api/card?username=PJHNode&theme=dark" />
 </p>
 
