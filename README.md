@@ -30,13 +30,14 @@ currently_building: PJH Hub
 
 ---
 
-### `> cat projects.md`
+### `> projects.md`
 
 | Project | Description |
 |:--------|:------------|
 | **[PJH Hub](https://pjhnode.github.io/PJH-hub/)** | 🛠️ Full-stack personal tools site with real-time chat |
 | **PJH-RPG** | 🗡️ RotMG-style real-time multiplayer top-down MMORPG (Phaser 3 + Socket.io) |
 | **PJH HQ** | 🖥️ All-in-one desktop hub — news, weather, notes, and more |
+| **PJH-OS** | 🐧 Custom Linux distro remade/remixed from Ubuntu |
 | *...more brewing* | ☕ Stay tuned |
 
 ---
@@ -83,7 +84,3 @@ currently_building: PJH Hub
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PJHNode/PJHNode/main/assets/blackhole.gif" alt="ASCII black hole" width="500" />
-</p>
