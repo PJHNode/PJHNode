@@ -36,8 +36,8 @@ currently_building: PJH Hub
 | Project | Description |
 |:--------|:------------|
 | **[PJH Hub](https://pjhnode.github.io/PJH-hub/)** | 🛠️ Full-stack personal tools site with real-time chat |
-| **[PJH-RPG](https://github.com/PJHNode/PJH-RPG)** | 🗡️ RotMG-style real-time multiplayer top-down MMORPG (Phaser 3 + Socket.io) |
-| **[PJH News](https://github.com/PJHNode/PJH-HQ)** | 📰 Electron desktop app with live BBC Korea/World news |
+| **PJH-RPG** | 🗡️ RotMG-style real-time multiplayer top-down MMORPG (Phaser 3 + Socket.io) |
+| **PJH News** | 📰 Electron desktop app with live BBC Korea/World news |
 | *...more brewing* | ☕ Stay tuned |
 
 ---
