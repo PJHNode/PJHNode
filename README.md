@@ -85,5 +85,5 @@ currently_building: PJH Hub
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,33:FFEB3B,66:FF9800,100:F44336&height=150&section=header&text=PJH&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/PJHNode/PJHNode/main/assets/pjh-logo.svg" alt="PJH" width="400" />
 </p>
