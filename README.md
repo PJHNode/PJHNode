@@ -79,10 +79,10 @@ currently_building: PJH Hub
 
 ---
 
-### `> joke --dev`
+### `> activity --graph`
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random dev joke" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PJHNode&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=e94560&area=true&area_color=00d9ff" width="100%" />
 </p>
 
 ---
