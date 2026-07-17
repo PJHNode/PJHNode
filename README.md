@@ -51,16 +51,16 @@ currently_building: PJH Hub
 
 <p align="center">
   <a href="https://github.com/PJHNode">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PJHNode&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=50FA7B&text_color=c9d1d9" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PJHNode&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=50FA7B&text_color=c9d1d9" height="165" />
   </a>
   <a href="https://github.com/PJHNode">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PJHNode&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PJHNode&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/PJHNode">
-    <img src="https://streak-stats.demolab.com?user=PJHNode&hide_border=true&background=00000000&ring=E94560&fire=FF6E40&currStreakLabel=ffffff&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=c9d1d9&dates=a5b4fc" />
+    <img src="https://streak-stats.demolab.com?user=PJHNode&hide_border=true&background=0d1117&ring=E94560&fire=FF6E40&currStreakLabel=ffffff&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=c9d1d9&dates=a5b4fc" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ currently_building: PJH Hub
 ### `> achievements --trophy`
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=PJHNode&theme=onedark&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=PJHNode&theme=onedark&no-frame=true&column=7" />
 </p>
 
 ---
