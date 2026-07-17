@@ -14,11 +14,11 @@
 </p>
 
 ```
-+---------------------------------+
-| PJH.dev                         |
-| building tools nobody asked for |
-| Korea . est. 2026               |
-+---------------------------------+
++-------------------+
+| PJH.dev           |
+| student developer |
+| Korea . est. 2026 |
++-------------------+
 ```
 
 ---
@@ -91,3 +91,11 @@ currently_building: PJH Hub
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
+
+```
+ _______ 
+|  </>  |
+|_______|
+  \_____/
+ [_______]
+```
