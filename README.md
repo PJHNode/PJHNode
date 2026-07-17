@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:0f3460,70:533483,100:e94560&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Korean&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%95+Java+one-trick+%7C+Python+on+the+side;%F0%9F%9B%A0%EF%B8%8F+Building+tools+nobody+asked+for;%F0%9F%92%BB+git+commit+-m+%22JuneHyun+update%22;%F0%9F%87%B0%F0%9F%87%B7+%EC%A4%80%ED%98%84+%C2%B7+PJH+%C2%B7+JuneHyun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%95+Java+one-trick+%7C+Python+on+the+side;%F0%9F%92%BB+git+commit+-m+%22JuneHyun+update%22;%F0%9F%87%B0%F0%9F%87%B7+%EC%A4%80%ED%98%84+%C2%B7+PJH+%C2%B7+JuneHyun" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,14 +12,6 @@
   <a href="mailto:pjhg0605i@gmail.com"><img src="https://img.shields.io/badge/Mail-pjhg0605i-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" /></a>
   <a href="https://pjhnode.github.io/PJH-hub/"><img src="https://img.shields.io/badge/PJH_Hub-Live_Site-00d9ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
 </p>
-
-```
-+-------------------+
-| PJH.dev           |
-| student developer |
-| Korea . est. 2026 |
-+-------------------+
-```
 
 ---
 
@@ -92,10 +84,6 @@ currently_building: PJH Hub
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
 
-```
- _______ 
-|  </>  |
-|_______|
-  \_____/
- [_______]
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,33:FFEB3B,66:FF9800,100:F44336&height=150&section=header&text=PJH&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+</p>
