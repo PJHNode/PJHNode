@@ -52,8 +52,30 @@ currently_building: PJH Hub
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PJHNode&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=6e7681&text_color=c9d1d9" height="165" />
   </a>
   <a href="https://github.com/PJHNode">
-    <img src="https://streak-stats.demolab.com?user=PJHNode&hide_border=true&background=00000000&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=6e7681&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PJHNode&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" height="165" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PJHNode">
+    <img src="https://streak-stats.demolab.com?user=PJHNode&hide_border=true&background=00000000&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=6e7681&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681" />
+  </a>
+</p>
+
+---
+
+### `> achievements --trophy`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PJHNode&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
+### `> contrib --snake`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PJHNode/PJHNode/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
