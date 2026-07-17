@@ -84,11 +84,6 @@ currently_building: PJH Hub
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
 
-```
-██████╗     ██╗██╗  ██╗
-██╔══██╗    ██║██║  ██║
-██████╔╝    ██║███████║
-██╔═══╝██   ██║██╔══██║
-██║    ╚█████╔╝██║  ██║
-╚═╝     ╚════╝ ╚═╝  ╚═╝
-```
+<p align="center">
+  <img src="https://media1.tenor.com/m/tOFm6IRBe8sAAAAd/black-hole-vortex.gif" alt="ASCII black hole vortex" width="450" />
+</p>
