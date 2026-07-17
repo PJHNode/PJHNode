@@ -62,6 +62,10 @@ currently_building: PJH Hub
   </a>
 </p>
 
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=PJHNode&theme=dark" />
+</p>
+
 ---
 
 ### `> achievements --trophy`
