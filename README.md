@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a2e&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20from%20Korea&descSize=16&descColor=6e7681&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:0f3460,70:533483,100:e94560&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20from%20Korea&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=CCCCCC&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%95+Java+one-trick+%7C+Python+on+the+side;%F0%9F%9B%A0%EF%B8%8F+Building+tools+nobody+asked+for;%F0%9F%92%BB+git+commit+-m+%22chaos+update%22;%F0%9F%87%B0%F0%9F%87%B7+%EC%A4%80%ED%98%84+%C2%B7+PJH+%C2%B7+JUNEHYUN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=50FA7B&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%95+Java+one-trick+%7C+Python+on+the+side;%F0%9F%9B%A0%EF%B8%8F+Building+tools+nobody+asked+for;%F0%9F%92%BB+git+commit+-m+%22chaos+update%22;%F0%9F%87%B0%F0%9F%87%B7+%EC%A4%80%ED%98%84+%C2%B7+PJH+%C2%B7+JUNEHYUN" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Main-Java-c9d1d9?style=flat-square&logo=openjdk&logoColor=c9d1d9&labelColor=000000" /></a>
-  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Sub-Python-c9d1d9?style=flat-square&logo=python&logoColor=c9d1d9&labelColor=000000" /></a>
-  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Status-Building_Things-c9d1d9?style=flat-square&logo=githubactions&logoColor=c9d1d9&labelColor=000000" /></a>
-  <a href="mailto:pjhg0605i@gmail.com"><img src="https://img.shields.io/badge/Mail-pjhg0605i-c9d1d9?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=000000" /></a>
+  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Main-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Sub-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=000000" /></a>
+  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Front-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Status-Building_Things-2EA44F?style=flat-square&logo=githubactions&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:pjhg0605i@gmail.com"><img src="https://img.shields.io/badge/Mail-pjhg0605i-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" /></a>
 </p>
 
 ---
@@ -23,6 +24,7 @@ location: Korea
 interests:
   - Java Development
   - Python Scripting & Automation
+  - HTML/CSS Markup
 currently_building: PJH Hub
 ```
 
@@ -40,7 +42,7 @@ currently_building: PJH Hub
 ### `> tech --stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode&perline=7&theme=dark" />
 </p>
 
 ---
@@ -49,7 +51,7 @@ currently_building: PJH Hub
 
 <p align="center">
   <a href="https://github.com/PJHNode">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PJHNode&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=6e7681&text_color=c9d1d9" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PJHNode&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=50FA7B&text_color=c9d1d9" height="165" />
   </a>
   <a href="https://github.com/PJHNode">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PJHNode&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" height="165" />
@@ -58,7 +60,7 @@ currently_building: PJH Hub
 
 <p align="center">
   <a href="https://github.com/PJHNode">
-    <img src="https://streak-stats.demolab.com?user=PJHNode&hide_border=true&background=00000000&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=6e7681&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681" />
+    <img src="https://streak-stats.demolab.com?user=PJHNode&hide_border=true&background=00000000&ring=E94560&fire=FF6E40&currStreakLabel=ffffff&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=c9d1d9&dates=a5b4fc" />
   </a>
 </p>
 
@@ -67,7 +69,7 @@ currently_building: PJH Hub
 ### `> achievements --trophy`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PJHNode&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=PJHNode&theme=onedark&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
@@ -80,4 +82,4 @@ currently_building: PJH Hub
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0a0a0a,100:000000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
