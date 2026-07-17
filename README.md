@@ -10,6 +10,7 @@
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Front-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Status-Building_Things-2EA44F?style=flat-square&logo=githubactions&logoColor=white&labelColor=000000" /></a>
   <a href="mailto:pjhg0605i@gmail.com"><img src="https://img.shields.io/badge/Mail-pjhg0605i-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" /></a>
+  <a href="https://pjhnode.github.io/PJH-hub/"><img src="https://img.shields.io/badge/PJH_Hub-Live_Site-00d9ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
 </p>
 
 ---
@@ -34,7 +35,7 @@ currently_building: PJH Hub
 
 | Project | Description |
 |:--------|:------------|
-| **PJH Hub** | 🛠️ Full-stack personal tools site with real-time chat |
+| **[PJH Hub](https://pjhnode.github.io/PJH-hub/)** | 🛠️ Full-stack personal tools site with real-time chat |
 | *...more brewing* | ☕ Stay tuned |
 
 ---
@@ -55,12 +56,6 @@ currently_building: PJH Hub
   </a>
   <a href="https://github.com/PJHNode">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PJHNode&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PJHNode">
-    <img src="https://streak-stats.demolab.com?user=PJHNode&hide_border=true&background=0d1117&ring=E94560&fire=FF6E40&currStreakLabel=ffffff&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=c9d1d9&dates=a5b4fc" />
   </a>
 </p>
 
