@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:0f3460,70:533483,100:e94560&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20from%20Korea&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:0f3460,70:533483,100:e94560&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Korean&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=50FA7B&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%95+Java+one-trick+%7C+Python+on+the+side;%F0%9F%9B%A0%EF%B8%8F+Building+tools+nobody+asked+for;%F0%9F%92%BB+git+commit+-m+%22chaos+update%22;%F0%9F%87%B0%F0%9F%87%B7+%EC%A4%80%ED%98%84+%C2%B7+PJH+%C2%B7+JUNEHYUN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%95+Java+one-trick+%7C+Python+on+the+side;%F0%9F%9B%A0%EF%B8%8F+Building+tools+nobody+asked+for;%F0%9F%92%BB+git+commit+-m+%22JuneHyun+update%22;%F0%9F%87%B0%F0%9F%87%B7+%EC%A4%80%ED%98%84+%C2%B7+PJH+%C2%B7+JuneHyun" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +18,7 @@
 ### `> whoami`
 
 ```yaml
-name: 준현 (JUNEHYUN)
-alias: ChaoStatiX
+name: 준현 (JuneHyun)
 role: Student Developer
 location: Korea
 interests:
@@ -75,14 +74,6 @@ currently_building: PJH Hub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PJHNode/PJHNode/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-### `> activity --graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PJHNode&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=e94560&area=true&area_color=00d9ff" width="100%" />
 </p>
 
 ---
