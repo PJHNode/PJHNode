@@ -57,6 +57,10 @@ currently_building: PJH Hub
   <img src="https://ghstats.dev/api/card?username=PJHNode&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PJHNode&layout=donut&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" height="220" />
+</p>
+
 ---
 
 ### `> achievements --trophy`
