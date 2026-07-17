@@ -37,7 +37,7 @@ currently_building: PJH Hub
 |:--------|:------------|
 | **[PJH Hub](https://pjhnode.github.io/PJH-hub/)** | 🛠️ Full-stack personal tools site with real-time chat |
 | **PJH-RPG** | 🗡️ RotMG-style real-time multiplayer top-down MMORPG (Phaser 3 + Socket.io) |
-| **PJH News** | 📰 Electron desktop app with live BBC Korea/World news |
+| **PJH HQ** | 🖥️ All-in-one desktop hub — news, weather, notes, and more |
 | *...more brewing* | ☕ Stay tuned |
 
 ---
@@ -78,5 +78,17 @@ currently_building: PJH Hub
 </p>
 
 ---
+
+### `> joke --dev`
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random dev joke" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PJHNode&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
