@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:0f3460,70:533483,100:e94560&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Korean&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%98%95+Java+one-trick+%7C+Python+on+the+side;%F0%9F%92%BB+git+commit+-m+%22JuneHyun+update%22;%F0%9F%87%B0%F0%9F%87%B7+%EC%A4%80%ED%98%84+%C2%B7+PJH+%C2%B7+JuneHyun" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Main-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Sub-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=000000" /></a>
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Front-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=000000" /></a>
@@ -19,7 +15,6 @@
 
 ```yaml
 name: 준현 (JuneHyun)
-role: Student Developer
 location: Korea
 interests:
   - Java Development
