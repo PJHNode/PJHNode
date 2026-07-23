@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:0f3460,70:533483,100:e94560&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Korean&descSize=16&descColor=a5b4fc&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0a0e1a,70:0f1b2d,100:000000&height=200&section=header&text=June%20Hyun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Korean&descSize=16&descColor=8892b0&descAlignY=55" width="100%" />
 
 <p align="center">
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Main-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000" /></a>
@@ -84,4 +84,4 @@ currently_building: PJH Hub
   <img src="https://komarev.com/ghpvc/?username=PJHNode&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,35:533483,70:0f3460,100:1a1a2e&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0f1b2d,70:0a0e1a,100:000000&height=100&section=footer" width="100%" />
