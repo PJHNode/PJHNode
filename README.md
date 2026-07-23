@@ -5,7 +5,6 @@
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Sub-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=000000" /></a>
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Front-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Status-Building_Things-2EA44F?style=flat-square&logo=githubactions&logoColor=white&labelColor=000000" /></a>
-  <a href="mailto:pjhg0605i@gmail.com"><img src="https://img.shields.io/badge/Mail-pjhg0605i-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" /></a>
   <a href="https://pjhnode.github.io/PJH-hub/"><img src="https://img.shields.io/badge/PJH_Hub-Live_Site-00d9ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
 </p>
 
