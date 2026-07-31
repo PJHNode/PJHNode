@@ -5,7 +5,7 @@
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Sub-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=000000" /></a>
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Front-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/PJHNode"><img src="https://img.shields.io/badge/Status-Building_Things-2EA44F?style=flat-square&logo=githubactions&logoColor=white&labelColor=000000" /></a>
-  <a href="https://pjhnode.github.io/PJH-hub/"><img src="https://img.shields.io/badge/PJH_Hub-Live_Site-00d9ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
+  <a href="https://pjh-hub.pages.dev/"><img src="https://img.shields.io/badge/PJH_Hub-Live_Site-00d9ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
 </p>
 
 ---
@@ -28,7 +28,8 @@ currently_building: PJH Hub
 
 | Project | Description |
 |:--------|:------------|
-| **[PJH Hub](https://pjhnode.github.io/PJH-hub/)** | 🛠️ Full-stack personal tools site with real-time chat |
+| **[PJH Hub](https://pjh-hub.pages.dev/)** | 🛠️ Full-stack personal tools site with real-time chat |
+| **[Χάος](https://pjh-i.pages.dev/)** | NJI BPARP FF ZLEPLJCA SPLZ RER BXEI |
 | **PJH-RPG** | 🗡️ RotMG-style real-time multiplayer top-down MMORPG (Phaser 3 + Socket.io) |
 | **PJH HQ** | 🖥️ All-in-one desktop hub — news, weather, notes, and more |
 | **PJH-OS** | 🐧 Custom Linux distro remade/remixed from Ubuntu |
